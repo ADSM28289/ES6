@@ -41,13 +41,13 @@ function min(num) {
 // const person = [{ singer: 'Atif aslam', address: '23 something street' }]
 // const player = { name: { firstName: "Mashrafe", lastName: "Murtaza" }, age: 38 };
 // new class Teacher {tname: 'yoyou';}
-const players = [
-    { name: { firstName: "Shakib", lastName: "Hasan" }, age: 34 },
-    { name: { firstName: "Tamim", lastName: "Iqbal" }, age: 32 },
-    { name: { firstName: "Mahmudullah", lastName: "Riyad" }, age: 36 },
-    { name: { firstName: "Mashrafe", lastName: "Murtaza" }, age: 38 },
-];
+// const players = [
+//     { name: { firstName: "Shakib", lastName: "Hasan" }, age: 34 },
+//     { name: { firstName: "Tamim", lastName: "Iqbal" }, age: 32 },
+//     { name: { firstName: "Mahmudullah", lastName: "Riyad" }, age: 36 },
+//     { name: { firstName: "Mashrafe", lastName: "Murtaza" }, age: 38 },
+// ];
 
-const u = players.map((name) => player.name.firstName);
-console.log(u);
+// const u = players.map((name) => player.name.firstName);
+// console.log(u);
 // console.log(person[0].address);
